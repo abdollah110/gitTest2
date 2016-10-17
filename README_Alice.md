@@ -8,3 +8,4 @@ This produce some conflict
 This shoud create some problem with ALice
 
 test rebase with alice
+Now master is adding something
